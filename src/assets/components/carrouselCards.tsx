@@ -94,7 +94,7 @@ const Carrousel = () => {
                 </div>
                 <div className="ml-2 flex-grow items-center">
                   <h2 className="text-sm font-semibold">{testimonial.fullName}</h2>
-                  <p className="text-[#4F5665] text-sm">Country, Ciudad</p>
+                  <p className="text-[#4F5665] text-sm">Country, City</p>
                 </div>
                 <div className="text-sm font-semibold flex items-center">
                   4.5
