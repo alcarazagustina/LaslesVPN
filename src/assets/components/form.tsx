@@ -52,7 +52,7 @@ const onSubmit = handleSubmit((data) => {
     body: JSON.stringify(data),
     });
 
-    alert("Email sent successfully, we will contact you soon...");
+    alert("Your data is sent successfully, we will contact you soon");
 });
 
 return (
